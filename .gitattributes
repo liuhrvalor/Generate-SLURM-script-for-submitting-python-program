@@ -3,7 +3,7 @@
 
 # Custom for Visual Studio
 *.cs     diff=csharp
-
+*.py linguist-language=shell
 # Standard to msysgit
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
